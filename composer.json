@@ -45,7 +45,8 @@
         "drupal/scheduler": "^1.5",
         "drupal/search_api": "^1.29",
         "drupal/token": "^1.11",
-        "drupal/honeypot": "^2.1"
+        "drupal/honeypot": "^2.1",
+        "drupal/views_bulk_operations": "^4.2"
     },
     "require-dev": {
         "drupal/core-dev": "~10.0.8"
